@@ -1,1 +1,1 @@
-# Astrofy | Personal Portfolio Website Template
+# Personal Portfolio Template
